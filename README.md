@@ -10,4 +10,16 @@
 - **Responsive Design**: Built with Tailwind CSS, the application is fully responsive and looks great on all devices.
 - **User-Friendly Interface**: An intuitive layout that makes it easy to navigate and manage tasks.
 
+# Technologies Used
+- **React**: A JavaScript library for building user interfaces.
+- **Tailwind CSS**: CSS framework for styling.
+- **Local Storage**: For storing task data on the client side.
+
+## Getting Started
+1. Clone the repository:
+   ```
+   git clone <>
+   ```
+
+
 
