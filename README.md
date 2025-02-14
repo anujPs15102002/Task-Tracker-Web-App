@@ -18,7 +18,7 @@
 ## Getting Started
 1. Clone the repository:
    ```
-   git clone <>
+   git clone <https://github.com/anujPs15102002/Task-Tracker-Web-App/tree/main>
    ```
 
 
